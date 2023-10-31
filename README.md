@@ -11,7 +11,7 @@ ESTE DOCUMENTO É MERAMENTE DEMONSTRATIVO TUDO O QUE SE LEMBRAREM ADICIONEM É P
 
 ## Tarefas
 
-### Front-End (em princípio Filipe Mendes):
+### Front-End (em princípio Filipe Mendes) --> Mockups:
  - Layout e design (simplificar mas com bom gosto e dentro do tema)
  - HUD completo de acordo com protótipo
  - Desenvolver animação de aparecer caixa de texto do briefing
