@@ -1,4 +1,4 @@
-package com.YourCompany.EscapeRoom;
+package com.IHC2.EscapeRoom;
 
 public class OBBData
 {

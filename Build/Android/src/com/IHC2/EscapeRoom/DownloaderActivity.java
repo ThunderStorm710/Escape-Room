@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.EscapeRoom;
+package com.IHC2.EscapeRoom;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
