@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.IHC8.EscapeRoom;
+package com.IHC11.EscapeRoom;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

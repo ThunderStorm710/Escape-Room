@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.IHC8.EscapeRoom;
+package com.IHC11.EscapeRoom;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.IHC8.EscapeRoom.AlarmReceiver.class.getName();
+        return com.IHC11.EscapeRoom.AlarmReceiver.class.getName();
     }
 }
