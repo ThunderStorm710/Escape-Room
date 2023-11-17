@@ -148,114 +148,114 @@
 "../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 147
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 148
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 149
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uasset" 150
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uexp" 151
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uasset" 152
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uexp" 153
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uasset" 154
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uexp" 155
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uasset" 156
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uexp" 157
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset" 158
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uexp" 159
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uasset" 160
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uexp" 161
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 162
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 163
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 164
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 165
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 166
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uexp" 167
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 168
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 169
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 170
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 171
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 172
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 173
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 174
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 175
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 176
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 177
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 178
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 179
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 180
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 181
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 182
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 183
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 184
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 185
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 186
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 187
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 188
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 189
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 190
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 191
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 192
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 193
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 194
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 195
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 196
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 197
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 198
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 199
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 200
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 201
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 202
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 203
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 204
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 205
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 206
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 207
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 208
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 209
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 210
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 211
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 212
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 213
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 214
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 215
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 216
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 217
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 218
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 219
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 220
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 221
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 222
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 223
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 224
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 225
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 226
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 227
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 228
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 229
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 230
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 231
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 232
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 233
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 234
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 235
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 236
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 237
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 238
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 239
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 240
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 241
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 242
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 243
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 244
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 245
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 246
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 247
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 248
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 249
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 250
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 251
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 252
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 253
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 254
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 255
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 256
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 257
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 150
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 151
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 152
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 153
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 154
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 155
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 156
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 157
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 158
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 159
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 160
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 161
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 162
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 163
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 164
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 165
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 166
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 167
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 168
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 169
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 170
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 171
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 172
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 173
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 174
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 175
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 176
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 177
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 178
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 179
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 180
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 181
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 182
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 183
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 184
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 185
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 186
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 187
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 188
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 189
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 190
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 191
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 192
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 193
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 194
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 195
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 196
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 197
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 198
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uasset" 199
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uexp" 200
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uasset" 201
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uexp" 202
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uasset" 203
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uexp" 204
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uasset" 205
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uexp" 206
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset" 207
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uexp" 208
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uasset" 209
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uexp" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uexp" 214
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 215
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 222
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 223
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 224
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 225
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 226
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 233
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 234
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 235
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 236
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 241
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 242
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 243
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 244
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 245
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 246
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 247
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 248
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 249
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 250
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 251
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 252
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 253
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 254
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 255
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 256
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 257
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 258
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 259
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 260
@@ -6999,54 +6999,52 @@
 "C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Participants.uexp" 6998
 "C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_MainMenu.uasset" 6999
 "C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_MainMenu.uexp" 7000
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_End.uasset" 7001
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_End.uexp" 7002
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 7003
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 7004
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 7005
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 7006
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 7007
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 7008
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 7009
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 7010
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 7011
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 7012
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionsMainMenu.uasset" 7013
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionsMainMenu.uexp" 7014
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Audio_MainMenu.uasset" 7015
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Audio_MainMenu.uexp" 7016
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_Menu.uasset" 7017
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_Menu.uexp" 7018
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Settings_Menu.uasset" 7019
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Settings_Menu.uexp" 7020
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uasset" 7021
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uexp" 7022
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uasset" 7023
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uexp" 7024
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.ubulk" 7025
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uasset" 7026
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uexp" 7027
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/D_ARSessionConfig.uasset" 7028
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/D_ARSessionConfig.uexp" 7029
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uasset" 7030
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uexp" 7031
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uasset" 7032
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uexp" 7033
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uasset" 7034
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uexp" 7035
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uasset" 7036
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uexp" 7037
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uasset" 7038
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uexp" 7039
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_EndGame.uasset" 7040
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_EndGame.uexp" 7041
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Answer.uasset" 7042
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Answer.uexp" 7043
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset" 7044
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uexp" 7045
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 7046
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 7047
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 7048
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 7049
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 7050
-"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 7051
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 7001
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 7002
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 7003
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 7004
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 7005
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 7006
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 7007
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 7008
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 7009
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 7010
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionsMainMenu.uasset" 7011
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionsMainMenu.uexp" 7012
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Audio_MainMenu.uasset" 7013
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Audio_MainMenu.uexp" 7014
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_Menu.uasset" 7015
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Video_Menu.uexp" 7016
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Settings_Menu.uasset" 7017
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Settings_Menu.uexp" 7018
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uasset" 7019
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uexp" 7020
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uasset" 7021
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uexp" 7022
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.ubulk" 7023
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uasset" 7024
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uexp" 7025
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/D_ARSessionConfig.uasset" 7026
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/D_ARSessionConfig.uexp" 7027
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uasset" 7028
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uexp" 7029
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uasset" 7030
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uexp" 7031
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uasset" 7032
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uexp" 7033
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uasset" 7034
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uexp" 7035
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uasset" 7036
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uexp" 7037
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_EndGame.uasset" 7038
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_EndGame.uexp" 7039
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Answer.uasset" 7040
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/UI/BP_Answer.uexp" 7041
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset" 7042
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uexp" 7043
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 7044
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 7045
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 7046
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 7047
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 7048
+"C:/Users/pasce/OneDrive/Documentos/Unreal Projects/EscapeRoom/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 7049
