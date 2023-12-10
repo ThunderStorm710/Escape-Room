@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Grafonola.EscapeRoom;
+package com.Mensagem.EscapeRoom;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.Grafonola.EscapeRoom.AlarmReceiver.class.getName();
+        return com.Mensagem.EscapeRoom.AlarmReceiver.class.getName();
     }
 }

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Grafonola.EscapeRoom;
+package com.Mensagem.EscapeRoom;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

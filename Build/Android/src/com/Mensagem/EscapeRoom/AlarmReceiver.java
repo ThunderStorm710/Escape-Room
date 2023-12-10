@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Grafonola.EscapeRoom;
+package com.Mensagem.EscapeRoom;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

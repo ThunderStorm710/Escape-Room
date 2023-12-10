@@ -1,4 +1,4 @@
-package com.Grafonola.EscapeRoom;
+package com.Mensagem.EscapeRoom;
 
 public class OBBData
 {
