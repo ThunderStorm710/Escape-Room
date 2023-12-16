@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Mensagem.EscapeRoom;
+package com.Experiencia.Experiencia;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

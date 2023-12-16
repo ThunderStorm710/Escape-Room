@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.Mensagem.EscapeRoom.OBBDownloaderService;
-import com.Mensagem.EscapeRoom.DownloaderActivity;
+import com.Experiencia.Experiencia.OBBDownloaderService;
+import com.Experiencia.Experiencia.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.Mensagem.EscapeRoom.OBBData;
+import com.Experiencia.Experiencia.OBBData;
 
 
 public class DownloadShim

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Mensagem.EscapeRoom;
+package com.Experiencia.Experiencia;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
